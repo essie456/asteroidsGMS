@@ -79,6 +79,30 @@
             }
         },
         {
+            "Key": "57ce78f4-e23e-48aa-b89a-52887c950a7d",
+            "Value": {
+                "id": "2c2b4097-950f-4a51-bf0f-81c01a543461",
+                "resourcePath": "sprites\\sprite_smallast\\sprite_smallast.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66acf652-f858-4686-a020-4cf8f6eb3d7f",
+            "Value": {
+                "id": "521f831b-9088-4de1-a108-b90b1ec16cc9",
+                "resourcePath": "objects\\object_smallast\\object_smallast.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6de7a963-b376-4f85-9ba9-0634720db543",
+            "Value": {
+                "id": "30dd0afd-6f13-45f4-a3cb-8af86df917a0",
+                "resourcePath": "sprites\\sprite_bull\\sprite_bull.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70e52d90-8f7d-49e8-9f9b-2fbf2779e9c8",
             "Value": {
                 "id": "05524dc8-fd47-424d-97b3-5188c229951d",
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "c40171b6-6957-4296-b8a3-00625be2a147",
+            "Value": {
+                "id": "f2aeffa4-22e1-43cb-b939-9e6753aaea02",
+                "resourcePath": "objects\\object_bull\\object_bull.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c669e25f-463b-490b-ad29-2ad7823d67d3",
             "Value": {
                 "id": "6be67b78-fac0-4972-9898-6ef766a07210",
@@ -183,11 +215,27 @@
             }
         },
         {
+            "Key": "d0fdd329-e648-40e4-b90d-88fc7c389afd",
+            "Value": {
+                "id": "b47f117c-b48c-44ad-8e66-3c3a88de42a2",
+                "resourcePath": "sprites\\sprite_astroid\\sprite_astroid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f16fdbad-c1cf-46d3-9c0b-ca2dee35f912",
             "Value": {
                 "id": "3a90b4b5-9c50-445c-854e-598f56c64950",
                 "resourcePath": "views\\f16fdbad-c1cf-46d3-9c0b-ca2dee35f912.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f64b3d31-d0c0-46d6-b535-97897e879d4a",
+            "Value": {
+                "id": "4f007b67-62f1-4ede-9566-7fbbbd0aa3b0",
+                "resourcePath": "objects\\object_asteroid\\object_asteroid.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
